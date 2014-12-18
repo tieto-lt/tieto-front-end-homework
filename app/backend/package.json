@@ -1,0 +1,7 @@
+{
+  "name": "endpoint-proxy",
+  "version": "1.0.0",
+  "main": "endpoint-proxy.js",
+  "dependencies": {
+  }
+}
