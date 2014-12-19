@@ -27,7 +27,7 @@ In order to start it up, please do the following:
 
 2. Then you should go to app/backend directory of this repository and type 'npm install'
 
-3. Once finished, you may start the application by typing this in terminal/cmd: 'node endpoint-proxy.js http://api.wunderground.com/api/ENTER_YOUR_KEY/conditions/q/CA/';
+3. Once finished, you may start the application by typing this in terminal/cmd: 'node endpoint-proxy.js http://api.wunderground.com/api/ENTER_YOUR_KEY/conditions/q/CA/'
 
 4. Upon sending requests, such as 'http://localhost:9000/San_Francisco.json', the data from 'http://api.wunderground.com/api/ENTER_YOUR_KEY/conditions/q/CA/San_Francisco.json' is returned.
 
