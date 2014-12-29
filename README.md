@@ -17,6 +17,7 @@ kph".
 * The three blocks should be equal size and showed in one line for a standard desktop and in three separate lines for mobile devices (blocks should be responsive).
 * There are no specific prerequisites for design, though the outlook should be aesthetic.
 * HTML5 and CSS3 must be used, the minimum supported browser is IE10.
+* Usage of Bootstrap or any other CSS framework must not be used.
 
 ## Backend usage
 Together with this application, a simple NodeJS application is created to proxy the "wunderground" API.
