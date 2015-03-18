@@ -36,3 +36,5 @@ Please note, that you may also disable Chrome security settings or use your own 
 
 ## Other considerations
 The implementation you create should not be made publicly available or otherwise shared/distributed to any outside parties.
+
+You may upload your archived homework to https://dbinbox.com/tietokarjera
